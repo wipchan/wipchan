@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**CHANWOO97/CHANWOO97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Configuration Manager
 
-Here are some ideas to get you started:
+## git
+![trophy](https://github-profile-trophy.vercel.app/?username=issac527)
+![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=CHANWOO97&show_icons=true)
+[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=issac527&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/CHANWOO97)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## TO DO
+ - 광주인공지능사관학교 2기 (2021)
+ - 프로세스 업무 (2022 ~ )
+    -> 애플리케이션, 소프트웨어 업데이트 및 운영 체제의 배포 관리
