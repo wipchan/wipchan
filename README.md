@@ -3,9 +3,9 @@
 ## Configuration Manager
 
 ## git
-![trophy](https://github-profile-trophy.vercel.app/?username=CHANWOO97)
-![CHANWOO's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHANWOO97&theme=panda&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHANWOO97&layout=compact&theme=tokyonight)
+![trophy](https://github-profile-trophy.vercel.app/?username=wipchan)
+![wipchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wipchan&theme=panda&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wipchan&layout=compact&theme=tokyonight)
 
 
  ## TO DO
